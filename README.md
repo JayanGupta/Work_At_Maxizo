@@ -41,12 +41,28 @@ Engineered a system that identifies similar financial instruments based on:
 - Created visualization tools for relationship analysis
 - Built a recommendation engine based on similarity scores
 
+### Project 4: Financial Sentiment Analysis System
+Developed a comprehensive sentiment analysis system for financial markets that:
+- Analyzes news articles, social media, and financial reports
+- Processes real-time market sentiment data
+- Generates sentiment scores for various financial instruments
+- Integrates with trading strategies
+
+**Implementation Highlights:**
+- Utilized FinBERT and custom NLP models for financial text analysis
+- Created sentiment scoring mechanisms for different data sources
+- Implemented real-time sentiment monitoring
+- Developed visualization tools for sentiment trends
+- Integrated sentiment signals with trading strategies
+
 ## Technologies Used
 - Python for core implementation
 - Statistical libraries (NumPy, Pandas, Statsmodels)
 - Machine Learning frameworks (TensorFlow, Scikit-learn)
 - Financial analysis tools
 - Data visualization libraries (Matplotlib, Plotly)
+- NLP libraries and transformers
+- Text processing tools
 
 ## Skills Demonstrated
 - Time Series Analysis
@@ -57,6 +73,8 @@ Engineered a system that identifies similar financial instruments based on:
 - Risk Management
 - Algorithm Development
 - Data Processing and Analysis
+- Sentiment Analysis
+- Text Mining and Processing
 
 ## Note on Confidentiality
 The actual implementation details, model parameters, and trading strategies developed during the internship are proprietary and cannot be shared. The code examples and demonstrations in this repository are simplified versions created specifically for portfolio demonstration purposes, using public data and general implementation approaches.
@@ -66,3 +84,5 @@ The actual implementation details, model parameters, and trading strategies deve
 - Enhancement of prediction models
 - Optimization of execution strategies
 - Implementation of advanced risk management techniques
+- Expansion of sentiment analysis capabilities
+- Integration of alternative data sources
